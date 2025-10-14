@@ -20,6 +20,9 @@ Students are expected to observe, participate, and contribute to the daily opera
 - 🤝 Collaborate with company teams and supervisors  
 - 📄 Document the internship experience and outcomes
 
+## 🛡️ Confidentiality Commitment
+I hereby commit to strictly complying with information confidentiality regarding sensitive company data, in accordance with the two signed agreements with the company. All shared documents in this repository are for **educational and reference purposes only**.
+
 ## 💼 Internship Artifacts
 - 📄 Internship Report (PDF)
 - 📷 On-site Photos
